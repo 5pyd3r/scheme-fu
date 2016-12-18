@@ -1,0 +1,3 @@
+[submodule "cKanren"]
+	path = cKanren
+	url = https://github.com/calvis/cKanren
